@@ -2,6 +2,10 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="e151885ba4d799b4262cb38259d33fbc.gif" alt="Logo" width="200" height="200">
   </a>
+  <video width="320" height="240" controls>
+  <source src="Testers.mp4" type="video/mp4">
+  
+</video>
   <h1 align="center">Team : Tester</h1>
   
   <p align="center">
@@ -26,9 +30,6 @@
 </details>
 
 <h3>About The Project</h3>
-<video width="320" height="240" controls>
-  <source src="Testers.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 There are buses made available for passengers travelling distances, but not many passengers have complete information about these buses. Complete information namely the number of buses that go to the required destination, bus numbers, bus timings, the routes through which the bus would pass, time taken for the bus to reach, maps that would guide the passenger with his/her route and most importantly, track the current location of the bus and give the correct time for the bus to reach its bus stop. The proposed system deals with overcoming the problems stated above. The system is an Web application that gives necessary information about all the buses travelling in any state. 
 The platform chosen for this kind of system is Web, reason being Web application has come up on a very large scale and is used by almost every person nowadays. As we know, Web is a user friendly platform, which will in  ease of access for our users. A number of applications made on the web is increasing on a large scale ever since its advent. Web development is an open source mobile software environment.
